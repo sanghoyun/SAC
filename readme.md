@@ -14,7 +14,7 @@ https://arxiv.org/abs/1801.01290
 
 Hopper-v4|Walker2d-v4|HalfCheetah-v4
 :-----------------------:|:-----------------------:|:-----------------------:|
-[](videos/Hopper.mp4)|![](videos/Walker2d.mp4)|![](videos/HalfCheetah.mp4)
+![](videos/Hopper.mp4)|![](videos/Walker2d.mp4)|![](videos/HalfCheetah.mp4)
 
 Ant-v4|Humanoid-v4|Swimmer-v4
 :-----------------------:|:-----------------------:|:-----------------------:|

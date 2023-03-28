@@ -14,11 +14,11 @@ https://arxiv.org/abs/1801.01290
 
 Hopper-v4|Walker2d-v4|HalfCheetah-v4
 :-----------------------:|:-----------------------:|:-----------------------:|
-![label](videos/Hopper.mp4)|![](videos/Walker2d.mp4)|![](videos/HalfCheetah.mp4)
+![hopper video](videos/Hopper.mp4)|![walker video](videos/Walker2d.mp4)|![halfcheetah video](videos/HalfCheetah.mp4)
 
 Ant-v4|Humanoid-v4|Swimmer-v4
 :-----------------------:|:-----------------------:|:-----------------------:|
-![](videos/Ant.mp4)|![](videos/Humanoid.mp4)|![](videos/Swimmer.mp4)
+![ant video](videos/Ant.mp4)|![humanoid video](videos/Humanoid.mp4)|![swimmer video](videos/Swimmer.mp4)
 
 ## Dependencies
 - python == 3.10.0

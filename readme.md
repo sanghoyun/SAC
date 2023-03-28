@@ -10,7 +10,7 @@ https://arxiv.org/abs/1801.01290
 ![Alt text](algorithm.png)
 
 ## results
-![Alt text](Screenshot%20from%202023-03-23%2021-09-24.png)
+![Alt text](rewards.png)
 
 Hopper-v4|Walker2d-v4|HalfCheetah-v4
 :-----------------------:|:-----------------------:|:-----------------------:|

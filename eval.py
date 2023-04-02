@@ -16,7 +16,7 @@ def main(args):
     CAPACITY = args.capacity
     lr = args.lr
     alpha = args.alpha
-    visual = args.visualization 
+    visual = args.visual
     device = "cuda" if torch.cuda.is_available() else "cpu"
 
     if visual == True:
